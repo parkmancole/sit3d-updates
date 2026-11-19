@@ -1,8 +1,8 @@
 {
- "version": "0.6.5",
- "zip": "sit3d-0.6.5.zip",
- "sha256": "5cc22e7d847e8c9ea34a09d56ef9d8d2d948a8b88e62632515a5168a8a725c47",
- "size": 2168734,
- "notes": "More detailed login diagnostics",
- "published": "2026-11-19T04:24:01.060Z"
+ "version": "0.7.0",
+ "zip": "sit3d-0.7.0.zip",
+ "sha256": "fdf52cc97014f4fff962fc768a88f058c55f18c23c6594179afa1420dd6e5513",
+ "size": 2171092,
+ "notes": "Connect MyFitnessPal and MyNetDiary through Edge (Google login works)",
+ "published": "2026-11-19T04:32:51.896Z"
 }

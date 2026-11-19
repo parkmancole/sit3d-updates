@@ -1,8 +1,8 @@
 {
- "version": "0.5.6",
- "zip": "sit3d-0.5.6.zip",
- "sha256": "97d0ea6a55743aa51dd4eed65bcbf6162ca25af6020a56a22abf91a8f5f94f12",
- "size": 2154188,
- "notes": "Food-level nutrition sync, Nutrition page, Harlow voice",
- "published": "2026-11-19T02:41:30.870Z"
+ "version": "0.6.0",
+ "zip": "sit3d-0.6.0.zip",
+ "sha256": "4ce3ee3ed8f8839a801c7a4331ae032263ebd810fa9b0e1619a62f3f84ee3601",
+ "size": 2165551,
+ "notes": "AI coach: written insights and live voice conversation",
+ "published": "2026-11-19T04:02:30.549Z"
 }

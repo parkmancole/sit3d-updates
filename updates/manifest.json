@@ -1,8 +1,8 @@
 {
- "version": "0.5.4",
- "zip": "sit3d-0.5.4.zip",
- "sha256": "34c5f3bcb73caff65e4d67f33ca953aa89a377002b5e3c492585eebee95e2766",
- "size": 1424754,
- "notes": "Quieter, undistorted voice clips",
- "published": "2026-11-19T02:26:14.507Z"
+ "version": "0.5.5",
+ "zip": "sit3d-0.5.5.zip",
+ "sha256": "fb68a0aa970d5c64622bcc9619f196fd1991ecc63154113f0cb0248ec4382f89",
+ "size": 1978753,
+ "notes": "Skylar voice guidance",
+ "published": "2026-11-19T02:28:33.278Z"
 }

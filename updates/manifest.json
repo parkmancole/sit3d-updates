@@ -1,8 +1,8 @@
 {
- "version": "0.6.4",
- "zip": "sit3d-0.6.4.zip",
- "sha256": "01b941ca740e243c8015a7a8d0f0bcac69b4b9c375327b6574d62bd94891f07b",
- "size": 2167810,
- "notes": "Updater reads releases through the GitHub API",
- "published": "2026-11-19T04:19:48.227Z"
+ "version": "0.6.5",
+ "zip": "sit3d-0.6.5.zip",
+ "sha256": "5cc22e7d847e8c9ea34a09d56ef9d8d2d948a8b88e62632515a5168a8a725c47",
+ "size": 2168734,
+ "notes": "More detailed login diagnostics",
+ "published": "2026-11-19T04:24:01.060Z"
 }

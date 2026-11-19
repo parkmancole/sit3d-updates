@@ -1,8 +1,8 @@
 {
- "version": "0.6.2",
- "zip": "sit3d-0.6.2.zip",
- "sha256": "81ff2ab4d4a2b76105f6dab3520d86b749219861c0089dddfb029fcd9645b6d2",
- "size": 2166955,
- "notes": "Fixes automatic update detection (package.json BOM)",
- "published": "2026-11-19T04:16:46.909Z"
+ "version": "0.6.3",
+ "zip": "sit3d-0.6.3.zip",
+ "sha256": "e74419a552407cacdf136cce758e7755d712b0e2537efceb77d160ed3154afe1",
+ "size": 2167043,
+ "notes": "Update checks bypass the CDN cache",
+ "published": "2026-11-19T04:18:38.269Z"
 }

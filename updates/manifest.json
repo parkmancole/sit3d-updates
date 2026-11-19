@@ -1,8 +1,8 @@
 {
- "version": "0.6.1",
- "zip": "sit3d-0.6.1.zip",
- "sha256": "30b1549dd75929bbaa39e744cb37ea12ed923bfaa2882694ea448255282bebd8",
- "size": 2166940,
- "notes": "PIN pad dots, login diagnostics for MyFitnessPal and MyNetDiary",
- "published": "2026-11-19T04:16:09.398Z"
+ "version": "0.6.2",
+ "zip": "sit3d-0.6.2.zip",
+ "sha256": "81ff2ab4d4a2b76105f6dab3520d86b749219861c0089dddfb029fcd9645b6d2",
+ "size": 2166955,
+ "notes": "Fixes automatic update detection (package.json BOM)",
+ "published": "2026-11-19T04:16:46.909Z"
 }

@@ -1,8 +1,8 @@
 {
- "version": "0.6.0",
- "zip": "sit3d-0.6.0.zip",
- "sha256": "4ce3ee3ed8f8839a801c7a4331ae032263ebd810fa9b0e1619a62f3f84ee3601",
- "size": 2165551,
- "notes": "AI coach: written insights and live voice conversation",
- "published": "2026-11-19T04:02:30.549Z"
+ "version": "0.6.1",
+ "zip": "sit3d-0.6.1.zip",
+ "sha256": "30b1549dd75929bbaa39e744cb37ea12ed923bfaa2882694ea448255282bebd8",
+ "size": 2166940,
+ "notes": "PIN pad dots, login diagnostics for MyFitnessPal and MyNetDiary",
+ "published": "2026-11-19T04:16:09.398Z"
 }

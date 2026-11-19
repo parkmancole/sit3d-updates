@@ -1,8 +1,8 @@
 {
- "version": "0.7.2",
- "zip": "sit3d-0.7.2.zip",
- "sha256": "90dc7ed28028baab6e0c67d74a414b25fce7a1bb3a02b962979c1ebb63be9016",
- "size": 2174273,
- "notes": "Scan-first insights, much faster MyFitnessPal sync",
- "published": "2026-11-19T04:47:38.425Z"
+ "version": "0.7.3",
+ "zip": "sit3d-0.7.3.zip",
+ "sha256": "c5a4c34de2495756d8334447e92a7fc7d7cebc496cff7fd08798af71c7204d94",
+ "size": 2176306,
+ "notes": "Food value analysis: best and lowest value foods in the AI insights",
+ "published": "2026-11-19T04:52:35.739Z"
 }

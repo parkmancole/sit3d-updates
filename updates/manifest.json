@@ -1,8 +1,8 @@
 {
- "version": "0.5.3",
- "zip": "sit3d-0.5.3.zip",
- "sha256": "2d8ba1e4094828c73e9e5fa492b017a5e55f98241599f66f73176bcf4f4d36de",
- "size": 1477249,
- "notes": "MyNetDiary sync, number pad, neural voice",
- "published": "2026-11-19T02:24:52.785Z"
+ "version": "0.5.4",
+ "zip": "sit3d-0.5.4.zip",
+ "sha256": "34c5f3bcb73caff65e4d67f33ca953aa89a377002b5e3c492585eebee95e2766",
+ "size": 1424754,
+ "notes": "Quieter, undistorted voice clips",
+ "published": "2026-11-19T02:26:14.507Z"
 }

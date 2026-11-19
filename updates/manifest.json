@@ -1,8 +1,8 @@
 {
- "version": "0.7.1",
- "zip": "sit3d-0.7.1.zip",
- "sha256": "b13532c90946eff3e98de6cb016f2310f57a72c66861fb1d0a1f8ccbe14b842e",
- "size": 2172480,
- "notes": "Dashboard AI insights, talking coach with Summarize, cleaner Profile layout",
- "published": "2026-11-19T04:35:58.771Z"
+ "version": "0.7.2",
+ "zip": "sit3d-0.7.2.zip",
+ "sha256": "90dc7ed28028baab6e0c67d74a414b25fce7a1bb3a02b962979c1ebb63be9016",
+ "size": 2174273,
+ "notes": "Scan-first insights, much faster MyFitnessPal sync",
+ "published": "2026-11-19T04:47:38.425Z"
 }

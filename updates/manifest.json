@@ -1,8 +1,8 @@
 {
- "version": "0.6.3",
- "zip": "sit3d-0.6.3.zip",
- "sha256": "e74419a552407cacdf136cce758e7755d712b0e2537efceb77d160ed3154afe1",
- "size": 2167043,
- "notes": "Update checks bypass the CDN cache",
- "published": "2026-11-19T04:18:38.269Z"
+ "version": "0.6.4",
+ "zip": "sit3d-0.6.4.zip",
+ "sha256": "01b941ca740e243c8015a7a8d0f0bcac69b4b9c375327b6574d62bd94891f07b",
+ "size": 2167810,
+ "notes": "Updater reads releases through the GitHub API",
+ "published": "2026-11-19T04:19:48.227Z"
 }

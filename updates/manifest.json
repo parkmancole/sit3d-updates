@@ -1,8 +1,8 @@
 {
- "version": "0.5.2",
- "zip": "sit3d-0.5.2.zip",
- "sha256": "6d6c568951c99f2ca163362d76f56d8b5f896267b1e8e56c3c91c9aa7aebb257",
- "size": 1474179,
- "notes": "Neural voice, number pad, History delete, PIN pad, MyFitnessPal sync",
- "published": "2026-11-19T02:18:44.580Z"
+ "version": "0.5.3",
+ "zip": "sit3d-0.5.3.zip",
+ "sha256": "2d8ba1e4094828c73e9e5fa492b017a5e55f98241599f66f73176bcf4f4d36de",
+ "size": 1477249,
+ "notes": "MyNetDiary sync, number pad, neural voice",
+ "published": "2026-11-19T02:24:52.785Z"
 }

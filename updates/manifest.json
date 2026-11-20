@@ -1,8 +1,8 @@
 {
- "version": "0.7.9",
- "zip": "sit3d-0.7.9.zip",
- "sha256": "9c240bafd96b4e4bc7671a531cd34c26c4ffe2dba6d080d932a3714f59ecb3bf",
- "size": 2183138,
- "notes": "Units switch, unit-aware and deeper AI analysis",
- "published": "2026-11-20T00:30:21.961Z"
+ "version": "0.7.10",
+ "zip": "sit3d-0.7.10.zip",
+ "sha256": "466663d21ac6db3698128d001c3379a4b23d185b3fe0103e4379e7924a56a1c1",
+ "size": 1960983,
+ "notes": "Quieter, cleaner voice guidance",
+ "published": "2026-11-20T00:30:57.603Z"
 }

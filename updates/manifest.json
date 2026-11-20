@@ -1,8 +1,8 @@
 {
- "version": "0.14.0",
- "zip": "sit3d-0.14.0.zip",
- "sha256": "0a770260316b257754b397fcdb2f45a968ae83521a9ecbf9a5615f31af3f9906",
- "size": 794637,
- "notes": "Calibration lab",
- "published": "2026-11-20T02:15:43.255Z"
+ "version": "0.15.0",
+ "zip": "sit3d-0.15.0.zip",
+ "sha256": "0fa1f11eeb350fe92e95fef9e42d9a77042324b844fe8d2b8fafa72718913539",
+ "size": 796149,
+ "notes": "Weight calibration: the platform weight is corrected against a trusted reference weight, for every scan.",
+ "published": "2026-11-20T03:45:03.861Z"
 }

@@ -1,8 +1,8 @@
 {
- "version": "0.11.0",
- "zip": "sit3d-0.11.0.zip",
- "sha256": "ed0299a0946836b12e367955a37a3e281e7bd98ef3bec4f0eaf0500718b04f29",
- "size": 774978,
- "notes": "Dynamic comparison method",
- "published": "2026-11-20T00:59:50.239Z"
+ "version": "0.11.1",
+ "zip": "sit3d-0.11.1.zip",
+ "sha256": "75833e81b055deb8b26ff035166f5c8f941c4c55fe4d9ee6b9282f79eee4bf47",
+ "size": 775506,
+ "notes": "Weight graph: calories overlay, more time slicers",
+ "published": "2026-11-20T01:00:45.819Z"
 }

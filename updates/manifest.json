@@ -1,8 +1,8 @@
 {
- "version": "0.13.0",
- "zip": "sit3d-0.13.0.zip",
- "sha256": "70fddab5b10f37df5acb688f20e035bb9322d625ac9794e508a86e7df59e789e",
- "size": 778440,
- "notes": "Dashboard fixes, deeper nutrition history",
- "published": "2026-11-20T01:17:26.989Z"
+ "version": "0.13.1",
+ "zip": "sit3d-0.13.1.zip",
+ "sha256": "3effe6244ceab9087331bdd5e9a9a721943a04a09edce6296d2d7b3fb1717125",
+ "size": 783838,
+ "notes": "Tutorial polish and robustness fixes from break testing",
+ "published": "2026-11-20T01:51:19.876Z"
 }

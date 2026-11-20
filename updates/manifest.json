@@ -1,8 +1,8 @@
 {
- "version": "0.7.11",
- "zip": "sit3d-0.7.11.zip",
- "sha256": "c05c342fa94ef51429a1aba34cccaad183f2d402d7d44329124302d1aa75cdff",
- "size": 4039204,
- "notes": "Harlow voice for the tutorial",
- "published": "2026-11-20T00:39:18.156Z"
+ "version": "0.8.0",
+ "zip": "sit3d-0.8.0.zip",
+ "sha256": "1afa5ecf3f165056285673d5af7ebe1f90b1d607d9da5edda13a6abd806fc9d1",
+ "size": 4045956,
+ "notes": "App weights on the dashboard, slicers and filters",
+ "published": "2026-11-20T00:47:06.913Z"
 }

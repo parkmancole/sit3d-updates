@@ -1,8 +1,8 @@
 {
- "version": "0.12.1",
- "zip": "sit3d-0.12.1.zip",
- "sha256": "5339372c48f59155aaf43e7c6172cb4b23f7ddfafeb518a87b963b7564b944d1",
- "size": 776912,
- "notes": "Hotfix: dashboard error after sign-in",
- "published": "2026-11-20T01:03:55.079Z"
+ "version": "0.13.0",
+ "zip": "sit3d-0.13.0.zip",
+ "sha256": "70fddab5b10f37df5acb688f20e035bb9322d625ac9794e508a86e7df59e789e",
+ "size": 778440,
+ "notes": "Dashboard fixes, deeper nutrition history",
+ "published": "2026-11-20T01:17:26.989Z"
 }

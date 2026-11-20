@@ -1,8 +1,8 @@
 {
- "version": "0.7.6",
- "zip": "sit3d-0.7.6.zip",
- "sha256": "6b4b0dc6fdc4110a10a22400569f4e9ea3325c322cf400dac8a4e5417f37c075",
- "size": 2179258,
- "notes": "Pre-scan tutorial with voice",
- "published": "2026-11-20T00:20:24.590Z"
+ "version": "0.7.7",
+ "zip": "sit3d-0.7.7.zip",
+ "sha256": "f265a5197a8edc8cc5d6b60947e3dca3f5107036fcbcd37c95377a49fec4bb9e",
+ "size": 2179780,
+ "notes": "Shorter AI report, chart label fix, nutrition alignment",
+ "published": "2026-11-20T00:21:22.189Z"
 }

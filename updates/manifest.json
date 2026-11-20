@@ -1,8 +1,8 @@
 {
- "version": "0.13.1",
- "zip": "sit3d-0.13.1.zip",
- "sha256": "3effe6244ceab9087331bdd5e9a9a721943a04a09edce6296d2d7b3fb1717125",
- "size": 783838,
- "notes": "Tutorial polish and robustness fixes from break testing",
- "published": "2026-11-20T01:51:19.876Z"
+ "version": "0.14.0",
+ "zip": "sit3d-0.14.0.zip",
+ "sha256": "0a770260316b257754b397fcdb2f45a968ae83521a9ecbf9a5615f31af3f9906",
+ "size": 794637,
+ "notes": "Calibration lab",
+ "published": "2026-11-20T02:15:43.255Z"
 }

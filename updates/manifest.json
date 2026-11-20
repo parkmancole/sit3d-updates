@@ -1,8 +1,8 @@
 {
- "version": "0.12.0",
- "zip": "sit3d-0.12.0.zip",
- "sha256": "7d6def6dc15c6e9c2cd00e85b1c3ff10448306337567d67cda172512043b0db9",
- "size": 776673,
- "notes": "Time slicers on every chart and Explore page",
- "published": "2026-11-20T01:02:10.643Z"
+ "version": "0.12.1",
+ "zip": "sit3d-0.12.1.zip",
+ "sha256": "5339372c48f59155aaf43e7c6172cb4b23f7ddfafeb518a87b963b7564b944d1",
+ "size": 776912,
+ "notes": "Hotfix: dashboard error after sign-in",
+ "published": "2026-11-20T01:03:55.079Z"
 }

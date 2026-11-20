@@ -1,8 +1,8 @@
 {
- "version": "0.7.8",
- "zip": "sit3d-0.7.8.zip",
- "sha256": "05e207017c0a69e5f6983cf9aad6142b1dd422b559b0003d753ffba8e2ab685b",
- "size": 2180811,
- "notes": "Dashboard: body map and tiles by importance",
- "published": "2026-11-20T00:24:51.777Z"
+ "version": "0.7.9",
+ "zip": "sit3d-0.7.9.zip",
+ "sha256": "9c240bafd96b4e4bc7671a531cd34c26c4ffe2dba6d080d932a3714f59ecb3bf",
+ "size": 2183138,
+ "notes": "Units switch, unit-aware and deeper AI analysis",
+ "published": "2026-11-20T00:30:21.961Z"
 }

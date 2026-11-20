@@ -1,8 +1,8 @@
 {
- "version": "0.7.7",
- "zip": "sit3d-0.7.7.zip",
- "sha256": "f265a5197a8edc8cc5d6b60947e3dca3f5107036fcbcd37c95377a49fec4bb9e",
- "size": 2179780,
- "notes": "Shorter AI report, chart label fix, nutrition alignment",
- "published": "2026-11-20T00:21:22.189Z"
+ "version": "0.7.8",
+ "zip": "sit3d-0.7.8.zip",
+ "sha256": "05e207017c0a69e5f6983cf9aad6142b1dd422b559b0003d753ffba8e2ab685b",
+ "size": 2180811,
+ "notes": "Dashboard: body map and tiles by importance",
+ "published": "2026-11-20T00:24:51.777Z"
 }

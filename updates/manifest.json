@@ -1,8 +1,8 @@
 {
- "version": "0.7.3",
- "zip": "sit3d-0.7.3.zip",
- "sha256": "c5a4c34de2495756d8334447e92a7fc7d7cebc496cff7fd08798af71c7204d94",
- "size": 2176306,
- "notes": "Food value analysis: best and lowest value foods in the AI insights",
- "published": "2026-11-19T04:52:35.739Z"
+ "version": "0.7.4",
+ "zip": "sit3d-0.7.4.zip",
+ "sha256": "44d502917b728a2a3c3c9e0944b4dfa5303386775ab0956b106afbf4b40b41ea",
+ "size": 2177590,
+ "notes": "Sync on every open, re-login prompt, faster PIN pad",
+ "published": "2026-11-20T00:11:27.759Z"
 }

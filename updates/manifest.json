@@ -1,8 +1,8 @@
 {
- "version": "0.8.0",
- "zip": "sit3d-0.8.0.zip",
- "sha256": "1afa5ecf3f165056285673d5af7ebe1f90b1d607d9da5edda13a6abd806fc9d1",
- "size": 4045956,
- "notes": "App weights on the dashboard, slicers and filters",
- "published": "2026-11-20T00:47:06.913Z"
+ "version": "0.8.1",
+ "zip": "sit3d-0.8.1.zip",
+ "sha256": "46d6e8e9ed2bfdcf60d0cd8e176affb57d02e9b43f9f457833252535fc59135e",
+ "size": 4046555,
+ "notes": "Fix stretched charts, tidy Profile layout",
+ "published": "2026-11-20T00:54:02.976Z"
 }

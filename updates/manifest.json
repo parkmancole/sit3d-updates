@@ -1,8 +1,8 @@
 {
- "version": "0.16.0",
- "zip": "sit3d-0.16.0.zip",
- "sha256": "2bec30b83b40c2ced35f1972babf9d2ce709064cd6113338edebdf5a3cf2af90",
- "size": 798338,
- "notes": "Scan screen: live platform weight readout.",
- "published": "2026-11-21T00:15:53.053Z"
+ "version": "0.16.1",
+ "zip": "sit3d-0.16.1.zip",
+ "sha256": "9771221b8410cc07c95b52cf930dfd95f38a19bc91a74c49364ef8e59ecd7f5d",
+ "size": 799148,
+ "notes": "Fixes scan comparison for daily scans; calorie averages exclude today.",
+ "published": "2026-11-21T00:20:38.957Z"
 }

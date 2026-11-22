@@ -1,8 +1,8 @@
 {
- "version": "0.16.1",
- "zip": "sit3d-0.16.1.zip",
- "sha256": "9771221b8410cc07c95b52cf930dfd95f38a19bc91a74c49364ef8e59ecd7f5d",
- "size": 799148,
- "notes": "Fixes scan comparison for daily scans; calorie averages exclude today.",
- "published": "2026-11-21T00:20:38.957Z"
+ "version": "0.17.0",
+ "zip": "sit3d-0.17.0.zip",
+ "sha256": "96715fc1fccf39b4d8cea0a300452c807af0bd5e89842bb355796d3261074b76",
+ "size": 801112,
+ "notes": "Weigh before gripping the handles: weight is read while you stand still.",
+ "published": "2026-11-22T20:54:32.354Z"
 }

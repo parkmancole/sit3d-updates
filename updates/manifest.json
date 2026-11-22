@@ -1,8 +1,8 @@
 {
- "version": "0.17.2",
- "zip": "sit3d-0.17.2.zip",
- "sha256": "5c0d29c4c5e2823c7f835db030be8c3011f138e744f61cdf3fcb171c1f4fbd29",
- "size": 801857,
- "notes": "Scan start: retry the depth sensors automatically if they are not ready.",
- "published": "2026-11-22T23:11:25.146Z"
+ "version": "0.17.3",
+ "zip": "sit3d-0.17.3.zip",
+ "sha256": "3e841fcf175f6098bbcc4210a40938851effc33b70436b33c6e4a2c3f6aa6d78",
+ "size": 802423,
+ "notes": "Weigh-in: more tolerant capture and a fallback so Weight captured appears.",
+ "published": "2026-11-22T23:13:37.031Z"
 }

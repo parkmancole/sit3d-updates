@@ -1,8 +1,8 @@
 {
- "version": "0.17.0",
- "zip": "sit3d-0.17.0.zip",
- "sha256": "96715fc1fccf39b4d8cea0a300452c807af0bd5e89842bb355796d3261074b76",
- "size": 801112,
- "notes": "Weigh before gripping the handles: weight is read while you stand still.",
- "published": "2026-11-22T20:54:32.354Z"
+ "version": "0.17.1",
+ "zip": "sit3d-0.17.1.zip",
+ "sha256": "266e0781b04447a7188ff2ebd77a0518633050c68c052ef8954601e5d9cb94bd",
+ "size": 801403,
+ "notes": "Scan start hardening: release the USB device from the weight monitor before scanning.",
+ "published": "2026-11-22T23:09:26.783Z"
 }

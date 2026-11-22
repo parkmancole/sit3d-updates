@@ -1,8 +1,8 @@
 {
- "version": "0.17.1",
- "zip": "sit3d-0.17.1.zip",
- "sha256": "266e0781b04447a7188ff2ebd77a0518633050c68c052ef8954601e5d9cb94bd",
- "size": 801403,
- "notes": "Scan start hardening: release the USB device from the weight monitor before scanning.",
- "published": "2026-11-22T23:09:26.783Z"
+ "version": "0.17.2",
+ "zip": "sit3d-0.17.2.zip",
+ "sha256": "5c0d29c4c5e2823c7f835db030be8c3011f138e744f61cdf3fcb171c1f4fbd29",
+ "size": 801857,
+ "notes": "Scan start: retry the depth sensors automatically if they are not ready.",
+ "published": "2026-11-22T23:11:25.146Z"
 }

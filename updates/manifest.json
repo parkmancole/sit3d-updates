@@ -1,8 +1,8 @@
 {
- "version": "0.17.8",
- "zip": "sit3d-0.17.8.zip",
- "sha256": "53725b802dda90bb363f69eb262089f3efbf2640e1991a1bc9ad666bba3ba43f",
- "size": 806217,
- "notes": "Slower board polling during the weigh-in; guided 2-minute scale test in Profile.",
- "published": "2026-11-24T02:20:14.346Z"
+ "version": "0.17.9",
+ "zip": "sit3d-0.17.9.zip",
+ "sha256": "fb8ee189bfb20b39627d67f1352bede422f738fca3fc9a4fd0895ccd68da032d",
+ "size": 806473,
+ "notes": "Weigh-in messages: power-cycle hint when the scale is silent.",
+ "published": "2026-11-24T02:31:31.999Z"
 }

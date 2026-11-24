@@ -1,8 +1,8 @@
 {
- "version": "0.17.5",
- "zip": "sit3d-0.17.5.zip",
- "sha256": "9e835158556e07b86ed1d05300860bb3b89767f29619d3d29622cb385f6aba65",
- "size": 803666,
- "notes": "Weigh-in: step on, 5-second hold-still countdown, take the weight or fail.",
- "published": "2026-11-24T00:41:31.624Z"
+ "version": "0.17.6",
+ "zip": "sit3d-0.17.6.zip",
+ "sha256": "13db9925916bc657f46a99e1c16b4acd7dd0452ffee7709f59782efa6e72f317",
+ "size": 804721,
+ "notes": "Weigh-in fixes: reset the board after every scan; scale test diagnostic in Profile.",
+ "published": "2026-11-24T00:53:39.800Z"
 }

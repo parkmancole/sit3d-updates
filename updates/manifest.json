@@ -1,8 +1,8 @@
 {
- "version": "0.17.7",
- "zip": "sit3d-0.17.7.zip",
- "sha256": "7b264f811ce70fc5772454bcdfbc745f9c1c4213f1fe32d9c10e8ba9e65b3277",
- "size": 805832,
+ "version": "0.17.8",
+ "zip": "sit3d-0.17.8.zip",
+ "sha256": "53725b802dda90bb363f69eb262089f3efbf2640e1991a1bc9ad666bba3ba43f",
+ "size": 806217,
  "notes": "Slower board polling during the weigh-in; guided 2-minute scale test in Profile.",
- "published": "2026-11-24T02:16:42.173Z"
+ "published": "2026-11-24T02:20:14.346Z"
 }

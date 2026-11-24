@@ -1,8 +1,8 @@
 {
- "version": "0.17.4",
- "zip": "sit3d-0.17.4.zip",
- "sha256": "baa2de61ec66dc1f4fd01591ceb4a51f93c29ad9dd7caa44bad86585a4d9514e",
- "size": 802842,
- "notes": "Weigh-in before arming the scanner so the grip prompt always appears.",
- "published": "2026-11-24T00:32:48.803Z"
+ "version": "0.17.5",
+ "zip": "sit3d-0.17.5.zip",
+ "sha256": "9e835158556e07b86ed1d05300860bb3b89767f29619d3d29622cb385f6aba65",
+ "size": 803666,
+ "notes": "Weigh-in: step on, 5-second hold-still countdown, take the weight or fail.",
+ "published": "2026-11-24T00:41:31.624Z"
 }

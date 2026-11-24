@@ -1,8 +1,8 @@
 {
- "version": "0.17.9",
- "zip": "sit3d-0.17.9.zip",
- "sha256": "fb8ee189bfb20b39627d67f1352bede422f738fca3fc9a4fd0895ccd68da032d",
- "size": 806473,
- "notes": "Weigh-in messages: power-cycle hint when the scale is silent.",
- "published": "2026-11-24T02:31:31.999Z"
+ "version": "0.17.10",
+ "zip": "sit3d-0.17.10.zip",
+ "sha256": "f513887960241448dd4a524da51fd9af5c70949a0344c6aa1558e1b55b291ac7",
+ "size": 807073,
+ "notes": "Weigh-in: enter your weight by hand if the scale is silent.",
+ "published": "2026-11-24T02:35:44.096Z"
 }

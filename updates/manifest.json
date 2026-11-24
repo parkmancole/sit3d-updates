@@ -1,8 +1,8 @@
 {
- "version": "0.17.11",
- "zip": "sit3d-0.17.11.zip",
- "sha256": "0fbceaca56eec68d5111ebe2370d523d26f1a04c73e54a799c43c1664a091e91",
- "size": 807683,
- "notes": "Crash fix: close the USB handle safely after a scan.",
- "published": "2026-11-24T02:50:16.288Z"
+ "version": "0.17.12",
+ "zip": "sit3d-0.17.12.zip",
+ "sha256": "3facf76ad83fc695737fd89c7e699d9b9b5a2f30197f5686c3af289b518f0dd7",
+ "size": 808307,
+ "notes": "Performance timings logged; compact store files.",
+ "published": "2026-11-24T03:00:04.364Z"
 }

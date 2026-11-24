@@ -1,8 +1,8 @@
 {
  "version": "0.17.7",
  "zip": "sit3d-0.17.7.zip",
- "sha256": "b7150fb4d5523d4806da5e08467b588f4f151f9e7bd75871809dd9420f8e756b",
- "size": 805267,
- "notes": "Weigh-in: arm the board, countdown on the first weight reading, step-off-and-on hint.",
- "published": "2026-11-24T01:38:48.919Z"
+ "sha256": "7b264f811ce70fc5772454bcdfbc745f9c1c4213f1fe32d9c10e8ba9e65b3277",
+ "size": 805832,
+ "notes": "Slower board polling during the weigh-in; guided 2-minute scale test in Profile.",
+ "published": "2026-11-24T02:16:42.173Z"
 }

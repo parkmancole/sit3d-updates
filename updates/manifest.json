@@ -1,8 +1,8 @@
 {
- "version": "0.17.10",
- "zip": "sit3d-0.17.10.zip",
- "sha256": "f513887960241448dd4a524da51fd9af5c70949a0344c6aa1558e1b55b291ac7",
- "size": 807073,
- "notes": "Weigh-in: enter your weight by hand if the scale is silent.",
- "published": "2026-11-24T02:35:44.096Z"
+ "version": "0.17.11",
+ "zip": "sit3d-0.17.11.zip",
+ "sha256": "0fbceaca56eec68d5111ebe2370d523d26f1a04c73e54a799c43c1664a091e91",
+ "size": 807683,
+ "notes": "Crash fix: close the USB handle safely after a scan.",
+ "published": "2026-11-24T02:50:16.288Z"
 }
